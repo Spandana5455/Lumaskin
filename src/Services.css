@@ -1,0 +1,29 @@
+.main-container {
+    background: url('./images/bg.png') no-repeat center center; /* Background Image */
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.mainheader {
+    color: rgba(88, 55, 34, 1);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.image-style {
+    width: 80px;
+    display: block;
+    margin: '0 auto';
+    transition: background-color 0.3s ease;
+}
+
+.custom-hover {
+    transition: all 0.3s ease-in-out;
+}
+
+.custom-hover:hover {
+    background-color: rgba(179, 117, 77, 0.5);
+    transform: scale(1.10); /* Slightly enlarges the card */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Adds a deeper shadow */
+}
+

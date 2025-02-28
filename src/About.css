@@ -1,0 +1,17 @@
+.about-us-head {
+    position: relative;
+    color: rgba(88, 55, 34, 1);
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.card-body {
+    position: relative;
+    color: rgba(132, 85, 55, 1);
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: 600;
+}

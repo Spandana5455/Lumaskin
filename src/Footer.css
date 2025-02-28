@@ -1,0 +1,30 @@
+.img-fluid {
+    width:80px;
+    height: 80px;
+}
+
+.text {
+    font-size: 16px;
+    font-weight: 600;
+}
+.contactstyle {
+    color: rgba(132, 85, 55, 1);
+    font-size: 32px;
+    font-weight: 600;
+    padding-right: 35px;
+}
+
+.mail {
+    padding-left: 35px;
+}
+
+.followstyle {
+    padding-bottom: 9px;
+    color: rgba(132, 85, 55, 1);
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.policy {
+    padding-top: 20px;
+}

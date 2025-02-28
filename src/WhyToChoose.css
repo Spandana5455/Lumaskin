@@ -1,0 +1,13 @@
+.main-header {
+    color: rgba(88, 55, 34, 1);
+    font-size: 70px;
+    font-weight: 600;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.card-text {
+    color: rgba(132, 85, 55, 1);
+    font-size: 25px;
+    font-weight: 600;
+}

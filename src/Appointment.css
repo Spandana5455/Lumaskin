@@ -1,0 +1,53 @@
+.appointment-container {
+    background: url('./images/bg.png') no-repeat center center;
+    background-size: cover; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.appointment-title {
+    font-size: 68px;
+    font-weight: 600;
+    color: rgba(88, 55, 34, 1);
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.appointment-form {
+    background: white;
+    height: 500px;
+    width: 700px;
+    border: 3px solid rgba(88, 55, 34, 1);
+    box-shadow: 4px 4px 15px rgba(88, 55, 34, 1);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+  
+.appointment-form .form-control {
+    height: 80px;
+    width:650px;
+    border: 1px solid rgba(88, 55, 34, 1);
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+}
+  
+.book-btn {
+    background-color: #f5dfcf;
+    color: #5a3714;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    height: 52px;
+    width: 225px;
+    padding: 12px;
+    border-radius: 5px;
+}
+  
+.book-btn:hover {
+    background-color: #e4c9b6;
+}
+  

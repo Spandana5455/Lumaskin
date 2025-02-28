@@ -1,0 +1,31 @@
+.review-parent{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+ }
+ .review-card-main{
+  border: 1px solid rgba(132, 85, 55, 1);
+  border-radius: 10px;
+  margin: 20px 0px 60px 0px;
+  width: 685px;
+  height: 600px;
+  background-color: #fff !important;
+   
+  }
+ .review-cards{
+    background-color: rgba(217, 186, 166, 1);
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 20px;
+    width: 580px;
+    height: 300px;
+    font-size: 25px;
+    border-radius: 10px;
+     
+ }
+ .presonal-data-review{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      margin-top: 40px;
+ }
